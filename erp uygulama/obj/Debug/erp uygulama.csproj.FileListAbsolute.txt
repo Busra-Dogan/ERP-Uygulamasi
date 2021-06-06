@@ -1,0 +1,13 @@
+C:\Users\LENOVO\source\repos\erp uygulama\erp uygulama\bin\Debug\erp uygulama.exe.config
+C:\Users\LENOVO\source\repos\erp uygulama\erp uygulama\bin\Debug\erp uygulama.exe
+C:\Users\LENOVO\source\repos\erp uygulama\erp uygulama\bin\Debug\erp uygulama.pdb
+C:\Users\LENOVO\source\repos\erp uygulama\erp uygulama\obj\Debug\erp uygulama.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\erp uygulama\erp uygulama\obj\Debug\erp_uygulama.Form1.resources
+C:\Users\LENOVO\source\repos\erp uygulama\erp uygulama\obj\Debug\erp_uygulama.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\erp uygulama\erp uygulama\obj\Debug\erp uygulama.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\erp uygulama\erp uygulama\obj\Debug\erp uygulama.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\erp uygulama\erp uygulama\obj\Debug\erp uygulama.exe
+C:\Users\LENOVO\source\repos\erp uygulama\erp uygulama\obj\Debug\erp uygulama.pdb
+C:\Users\LENOVO\source\repos\erp uygulama\erp uygulama\obj\Debug\erp_uygulama.Form2.resources
+C:\Users\LENOVO\source\repos\erp uygulama\erp uygulama\obj\Debug\erp_uygulama.Form3.resources
+C:\Users\LENOVO\source\repos\ERP Uygulama\erp uygulama\obj\Debug\erp_uygulama.Form4.resources
